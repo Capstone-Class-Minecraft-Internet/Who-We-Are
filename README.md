@@ -32,4 +32,9 @@ Watching some of our favorite Minecraft builders create structures is what inspi
 > ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Smallbeanscastle.png?alt=media&token=e6595262-80cf-4c97-9ebb-934e0b82424d)
 > ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Hogwarts%20Castle.jpeg?alt=media&token=cebd00fa-fc5f-4455-9cfb-ec190c2f58ae)
 
+> * Favorite builds
+> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/JapanesePogoda.webp?alt=media&token=b0c16bfe-d824-4214-97b1-41e94a0ed504)
+> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Nether%20Sword%20Portal.png?alt=media&token=e6e2288a-f14d-46d8-a32b-2f3b02c30ba7)
+> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Nintendo-Switch-House.png?alt=media&token=9604f3b9-1901-4c2f-ad81-53413affab14)
+
 
