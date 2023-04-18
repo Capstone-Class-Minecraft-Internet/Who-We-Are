@@ -20,7 +20,7 @@ Our goal is to partner with your favorite Minecraft builders to bring their crea
 
 # Inspiration
 -----
-Watching some of our favorite Minecraft builders create structures is what inspired us to create this application. Feel free to check out some of our favorite Minecraft builders and top creations.
+Watching some of our favorite Minecraft builders create structures is what inspired us to create this application. Feel free to check out some of our favorite Minecraft builders and most viewed creations.
 > **Grian**: 8.14M subscribers [Grian/Youtube](https://www.youtube.com/channel/UCR9Gcq0CMm6YgTzsDxAxjOQ)
 >![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/G-mansion.webp?alt=media&token=4ba47622-6d57-4567-9440-c1080897f8ae)
 
