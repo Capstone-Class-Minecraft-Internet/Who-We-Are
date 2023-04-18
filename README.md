@@ -28,7 +28,7 @@ Watching some of our favorite Minecraft builders create structures is what inspi
 > ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Keralis_castle.jpeg?alt=media&token=3a7d6828-1dce-4dbd-bc41-0e9a8a589824)
 > ![image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Keralis_castle2.jpeg?alt=media&token=106c8db2-dcae-4115-aeae-b44d65b73959)
 
-> *Smallishbeans: 3.57M subscribers [Smallishbeans/Youtube](https://www.youtube.com/@SmallishBeans)
+> * Smallishbeans: 3.57M subscribers [Smallishbeans/Youtube](https://www.youtube.com/@SmallishBeans)
 > ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Smallbeanscastle.png?alt=media&token=e6595262-80cf-4c97-9ebb-934e0b82424d)
 > ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Hogwarts%20Castle.jpeg?alt=media&token=cebd00fa-fc5f-4455-9cfb-ec190c2f58ae)
 
