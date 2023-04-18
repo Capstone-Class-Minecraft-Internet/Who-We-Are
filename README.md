@@ -1,10 +1,10 @@
 ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Screen%20Shot%202023-04-18%20at%2012.42.51%20PM.png?alt=media&token=40f4815b-9ff4-4783-b9ea-7dc286d2ab65)
 
 # Contents
-> * Who we are
-> * How this works
-> * Our future
-> * Inspiration
+> * [Who we are](https://github.com/Capstone-Class-Minecraft-Internet/Who-We-Are#who-we-are)
+> * [How this works](https://github.com/Capstone-Class-Minecraft-Internet/Who-We-Are#how-this-works)
+> * [Our future](https://github.com/Capstone-Class-Minecraft-Internet/Who-We-Are#our-future)
+> * [Inspiration](https://github.com/Capstone-Class-Minecraft-Internet/Who-We-Are#inspiration)
 
 # Who we are
 -----
