@@ -25,16 +25,17 @@ Watching some of our favorite Minecraft builders create structures is what inspi
 > ![Image goes here](https://static.wikia.nocookie.net/hermitcraft/images/4/44/G-mansion.png/revision/latest?cb=20211219074513)
 
 > **Keralis**: 2.36M subscribers [Keralis/Youtube](https://www.youtube.com/@Keralis)
-> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Keralis_castle.jpeg?alt=media&token=3a7d6828-1dce-4dbd-bc41-0e9a8a589824)
-> ![image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Keralis_castle2.jpeg?alt=media&token=106c8db2-dcae-4115-aeae-b44d65b73959)
+> ![Image goes here](https://www.keralis.net/wp-content/uploads/2019/08/23-7LEChbR.jpg)
+> ![Image goes here](https://www.keralis.net/wp-content/uploads/2019/08/7-wcr0RMn-1.jpg)
 
 > **Smallishbeans**: 3.57M subscribers [Smallishbeans/Youtube](https://www.youtube.com/@SmallishBeans)
-> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Smallbeanscastle.png?alt=media&token=e6595262-80cf-4c97-9ebb-934e0b82424d)
-> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Hogwarts%20Castle.jpeg?alt=media&token=cebd00fa-fc5f-4455-9cfb-ec190c2f58ae)
+> ![Image goes here](https://twitter.com/Smallishbeans/status/1371506203621261312/photo/2)
+> ![Image goes here](https://twitter.com/Smallishbeans/status/1063534034712780801/photo/1)
 
 > **Favorite builds**
-> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/JapanesePogoda.webp?alt=media&token=b0c16bfe-d824-4214-97b1-41e94a0ed504)
-> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Nether%20Sword%20Portal.png?alt=media&token=e6e2288a-f14d-46d8-a32b-2f3b02c30ba7)
-> ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Nintendo-Switch-House.png?alt=media&token=9604f3b9-1901-4c2f-ad81-53413affab14)
+> ![Image goes here](https://momsgotthestuff.com/wp-content/uploads/2021/01/minecraft-ideas-2.jpg)
+> ![Image goes here](https://whatifgaming.com/wp-content/uploads/2022/05/Nintendo-Switch-House-2048x1152.png.webp)
+> ![Image goes here](https://lh4.googleusercontent.com/fbqWEl35Rv9NFIQaowB5oz_5s_dzS-gKajdqeGcGpFPX-TCGbFKz_M5iTVyHlvSjLKob2RxUKQrywq8icq-WJAw1wwq6znrfdLz4VOoantSLugL6x-rF5lCv9ykPF9W85PsmP89e)
+
 
 
