@@ -12,7 +12,7 @@ We are a group of students at the [University of Delaware](https://www.cis.udel.
 
 # How this works
 -----
-This application consists of three main components: a database, a website, and a Minecraft Discord bot. To provide this product, each of these components performs a separate job while working in a union. To learn more about each component and the computer science behind this application, please visit [Educational/Documentation](https://docs.google.com/document/d/1Qs5xLDO0QNNljG4JbwsDyfQLw6ti465QDh5wwUJI0MA/edit). To learn more about Andrew Novocin, please see [prof.ninja](https://prof.ninja/). Here is [visual representation of our work](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work.).
+This application consists of three main components: a database, a website, and a Minecraft Discord bot. To provide this product, each of these components performs a separate job while working in a union. To learn more about each component and the computer science behind this application, please visit [Educational/Documentation](https://docs.google.com/document/d/1Qs5xLDO0QNNljG4JbwsDyfQLw6ti465QDh5wwUJI0MA/edit). To learn more about Andrew Novocin, please see [prof.ninja](https://prof.ninja/). Here is [visual representation of our work](https://github.com/Capstone-Class-Minecraft-Internet/visual-representation-of-our-work).
 
 # Our future
 -----
