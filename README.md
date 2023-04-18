@@ -29,9 +29,8 @@ Watching some of our favorite Minecraft builders create structures is what inspi
 > ![Image goes here](https://www.keralis.net/wp-content/uploads/2019/08/7-wcr0RMn-1.jpg)
 
 > **Smallishbeans**: 3.57M subscribers [Smallishbeans/Youtube](https://www.youtube.com/@SmallishBeans)
-> ![Image goes here](https://twitter.com/Smallishbeans/status/1371506203621261312/photo/2)
-> ![Image goes here](https://twitter.com/Smallishbeans/status/1063534034712780801/photo/1)
-
+> ![Image goes here](https://pbs.twimg.com/media/EwiP8DmXAAkdmjU?format=jpg&name=4096x4096)
+> ![Image goes here](https://i.redd.it/0arzmr9tab121.jpg)
 > **Favorite builds**
 > ![Image goes here](https://momsgotthestuff.com/wp-content/uploads/2021/01/minecraft-ideas-2.jpg)
 > ![Image goes here](https://whatifgaming.com/wp-content/uploads/2022/05/Nintendo-Switch-House-2048x1152.png.webp)
