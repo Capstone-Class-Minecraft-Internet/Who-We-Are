@@ -21,10 +21,10 @@ Our goal is to partner with your favorite Minecraft builders to bring their crea
 # Inspiration
 -----
 Watching some of our favorite Minecraft builders create structures is what inspired us to create this application. Feel free to check out some of our favorite Minecraft builders or top creations.
-> ** Grian: 8.14M subscribers [Grian/Youtube](https://www.youtube.com/channel/UCR9Gcq0CMm6YgTzsDxAxjOQ)**
+> **Grian**: 8.14M subscribers [Grian/Youtube](https://www.youtube.com/channel/UCR9Gcq0CMm6YgTzsDxAxjOQ)
 >![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/G-mansion.webp?alt=media&token=4ba47622-6d57-4567-9440-c1080897f8ae)
 
-> **Keralis: 2.36M subscribers [Keralis/Youtube](https://www.youtube.com/@Keralis)**
+> **Keralis**: 2.36M subscribers [Keralis/Youtube](https://www.youtube.com/@Keralis)
 > ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Keralis_castle.jpeg?alt=media&token=3a7d6828-1dce-4dbd-bc41-0e9a8a589824)
 > ![image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Keralis_castle2.jpeg?alt=media&token=106c8db2-dcae-4115-aeae-b44d65b73959)
 
