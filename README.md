@@ -22,6 +22,7 @@ Our goal is to partner with your favorite Minecraft builders to bring their crea
 -----
 Watching some of our favorite Minecraft builders create structures is what inspired us to create this application. Feel free to check out some of our favorite Minecraft builders and most viewed creations.
 > **Grian**: 8.14M subscribers [Grian/Youtube](https://www.youtube.com/channel/UCR9Gcq0CMm6YgTzsDxAxjOQ)
+
 > ![Image goes here](https://static.planetminecraft.com/files/image/minecraft/project/2021/656/14560322_m.jpg)
 
 > **Keralis**: 2.36M subscribers [Keralis/Youtube](https://www.youtube.com/@Keralis)
