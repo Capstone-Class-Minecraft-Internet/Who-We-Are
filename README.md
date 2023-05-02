@@ -33,6 +33,7 @@ Watching some of our favorite Minecraft builders create structures is what inspi
 > ![Image goes here](https://pbs.twimg.com/media/EwiP8DmXAAkdmjU?format=jpg&name=4096x4096)
 > ![Image goes here](https://i.redd.it/0arzmr9tab121.jpg)
 > **Favorite builds**
+
 > ![Image goes here](https://momsgotthestuff.com/wp-content/uploads/2021/01/minecraft-ideas-2.jpg)
 > ![Image goes here](https://whatifgaming.com/wp-content/uploads/2022/05/Nintendo-Switch-House-2048x1152.png.webp)
 > ![Image goes here](https://lh4.googleusercontent.com/fbqWEl35Rv9NFIQaowB5oz_5s_dzS-gKajdqeGcGpFPX-TCGbFKz_M5iTVyHlvSjLKob2RxUKQrywq8icq-WJAw1wwq6znrfdLz4VOoantSLugL6x-rF5lCv9ykPF9W85PsmP89e)
