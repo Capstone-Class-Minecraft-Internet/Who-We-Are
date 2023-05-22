@@ -38,9 +38,6 @@ Watching some of our favorite Minecraft builders create structures is what inspi
 > ![Image goes here](https://whatifgaming.com/wp-content/uploads/2022/05/Nintendo-Switch-House-2048x1152.png.webp)
 > ![Image goes here](https://lh4.googleusercontent.com/fbqWEl35Rv9NFIQaowB5oz_5s_dzS-gKajdqeGcGpFPX-TCGbFKz_M5iTVyHlvSjLKob2RxUKQrywq8icq-WJAw1wwq6znrfdLz4VOoantSLugL6x-rF5lCv9ykPF9W85PsmP89e)
 
-# Demo
------
-![demo](https://firebasestorage.googleapis.com/v0/b/mindcraftproject-45d64.appspot.com/o/Untitled_video_H.264.mp4?alt=media&token=13ff0ddb-af6d-4947-9930-847f5a9cddd3)
 
 
 
